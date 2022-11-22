@@ -1,0 +1,77 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JOHN QUIZ BOARD</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous" />
+  <link rel="stylesheet" href="CSS/styles.css" />
+</head>
+<body>
+  <div class="containr">
+    <h3>JOHN CODE ACADEMY</h3>
+    <h3>NAIROBI KENYA</h3>
+    <div>
+      <img width="250" height="250" src="images/imag3.jpg" alt="">
+    </div>
+    <p>This assesment will test your knowledge on the concepts we have learned
+      so far including HTML, CSS, Javascript, jQuery and Forms
+    </p>
+  </div>
+  <div class="container">
+    <form action="">
+      <ol>
+        <li>What is CSS in full?</li>
+        <input class="form-check-input ouranswers" type="radio" name="one" id="ans_one_a" value="2>
+        <label class=" form-check-label" for="ans_one_a">Cascading Style Sheets </label> <br />
+        <input class="form-check-input ouranswers" type="radio" name="one" id="ans_one_b" value="0>
+        <label class=" form-check-label" for="ans_one_a"> Control System Styles </label> <br />
+        <input class="form-check-input ouranswers" type="radio" name="one" id="ans_one_c" value="0>
+        <label class=" form-check-label" for="ans_one_a"> Central Server System </label> <br />
+        <br />
+        <li>How many sides of headers are available on HTML by default?</li>
+        <input class="form-check-input ouranswers" type="radio" name="two" id="ans_two_a" value="0>
+        <label class=" form-check-label" for="ans_two_a">5 </label> <br />
+        <input class="form-check-input ouranswers" type="radio" name="two" id="ans_two_b" value="0>
+        <label class=" form-check-label" for="ans_two_b"> 10 </label> <br />
+        <input class="form-check-input ouranswers" type="radio" name="two" id="ans_two_c" value="2>
+        <label class=" form-check-label" for="ans_two_c"> 6 </label> <br />
+        <br />
+        <li>Is HTML a cascading style language?</li>
+        <input class="form-check-input ouranswers" type="radio" name="three" id="ans_three_a" value="0>
+        <label class=" form-check-label" for="ans_three_a"> Yes</label> <br />
+        <input class="form-check-input ouranswers" type="radio" name="three" id="ans_three_b" value="2" <label
+          class="form-check-label" for="ans_three_b"> No </label> <br />
+        <br />
+        <li>Is CSS a programming language?</li>
+        <input class="form-check-input ouranswers" type="radio" name="four" id="ans_four_a" value="0>
+        <label class=" form-check-label" for="ans_four_a"> Yes</label> <br />
+        <input class="form-check-input ouranswers" type="radio" name="four" id="ans_four_b" value="2>
+        <label class=" form-check-label" for="ans_four_b"> No </label> <br />
+        <br />
+        <li>What is the other name of Javascript?</li>
+        <input class="form-check-input ouranswers" type="radio" name="five" id="ans_five_a" value="2" />
+        <label class="form-check-label" for="ans_five_a">ECMAscript </label>
+        <br />
+        <input class="form-check-input ouranswers" type="radio" name="five" id="ans_five_b" value="0" />
+        <label class="form-check-label" for="ans_five_a"> JS </label> <br />
+        <input class="form-check-input ouranswers" type="radio" name="five" id="ans_five_c" value="0" />
+        <label class="form-check-label" for="ans_five_a">dont know </label>
+        <br />
+        <br />
+        <button type="button" class="btn btn-dark" id="finished">Submit</button>
+    </form>
+  </div>
+  <div class="container d-none" id="scoreblimp">
+    <h2 class="display-5" id="scoreboard"></h2>
+  </div>
+  <div></div>
+  <script src="https://code.jquery.com/jquery-3.6.1.slim.min.js"
+    integrity="sha256-w8CvhFs7iHNVUtnSP0YKEg00p9Ih13rlL9zGqvLdePA=" crossorigin="anonymous"></script>
+  <script src="JS/main.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+body{ 
+    background-color: cadetblue;
+    font-style: normal;
+    font-family: sans-serif;
+    
+    
+}
+h3{
+    text-align: center;
+    color: blue;
+}
+img{
+   margin-left: 5mm;
+   padding: 1%;
+    border-style: solid;
+    border-width: 4mm;
+    border-color: black;
+    background-color: aqua;
+}
