@@ -1,19 +1,19 @@
-#AMANI CODEACADEMY
-## AMANI'S QUIZ BOARD
+#JOHN CODEACADEMY
+## JOHN'S QUIZ BOARD
 
 ### AMANI CODE ACADEMY is conducting an assessment for its Software Engineering students who have just completed the Javascript module to assess their understanding of the concepts leardned so far in the course from the start up to now, this includes HTML, CSS, Javascript, and jQuery.
 
 #### This application is aa assessment quiz for the coding class that has just completed learning javascript, 
 
-### Version Date: 4th. Nov 2022
+### Version Date: 22nd. Nov 2022
 
 #### Author
 
-The author is **Amani Kai**
+The author is **John Waweru**
 
 ### Setup instructions
 
--Git clone https://github.com/AMANIKAI/WEEK3-IP.git
+-Git clone https://github.com/jkwaweru/WEEK-3-IP-DELANI-STUDIO.git
 -Open the code with VS code
 -Go live
 
@@ -25,7 +25,7 @@ The questions will seek to gauge the students on all the concepts that they have
 
 ### Live link
 
-The live link is at https://amanikai.github.io/WEEK3-IP/
+The live link is at https://jkwaweru.github.io/WEEK-3-IP-Delani-studio/
 
 ### 
 
