@@ -54,6 +54,6 @@ CODE FORMATTED VIA PRETTIER AND TYPESCRIPT/JAVASCRIPT
 
 ## Support and contact details
 
-If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: amanikai@gmail.com to make a contribution to the code or for any assistance on the app/project.
+If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: jkwaweru47@gmail.com to make a contribution to the code or for any assistance on the app/project.
 
 ### License
